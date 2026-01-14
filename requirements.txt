@@ -1,0 +1,27 @@
+# fastapi
+# uvicorn[standard]
+# python-multipart
+# python-dotenv
+# motor
+# pydantic
+# opencv-python-headless
+# numpy
+
+
+numpy
+dlib
+pillow
+face_recognition
+opencv-python
+fastapi
+uvicorn[standard]
+python-dotenv
+# pymongo
+pydantic
+python-multipart
+motor
+
+# # Additional libraries for face recognition step by step implementation
+# dlib
+# pillow
+# face_recognition
